@@ -13,9 +13,9 @@ I am a Backend Developer
 
 ### :hammer_and_wrench: Languages and Tools :
 
- * Python, C++
- * Aiogram
- * PostreSQL
+ * Python3
+ * C++
+ * Solidity
    
 ---
 
