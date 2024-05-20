@@ -5,7 +5,7 @@
 ### :man_technologist: About Me :
 I am a Backend Developer 
 
-- :robot: Enjoy machine learning
+- :robot: Enjoy Web3
 - :bookmark: Curious about economics
 - :coin: Interested in stock/crypto market 
 
